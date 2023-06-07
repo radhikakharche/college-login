@@ -13,3 +13,7 @@ Enter the username and password as admin
 ![image](https://github.com/radhikakharche/college-login/assets/135815258/a0527be5-76ea-4ef1-85be-d3a1b6cb821c)
 
 
+![image](https://github.com/radhikakharche/college-login/assets/135815258/8bb96f18-c1ae-4107-8b1c-981ed28b1f93)
+
+
+
