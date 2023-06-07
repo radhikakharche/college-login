@@ -5,5 +5,6 @@ A college login system built using WAMP server enables both the admin and the st
 
 
 ![image](https://github.com/radhikakharche/college-login/assets/135815258/b3ca1e8a-46a8-4d59-a059-c531e756ba50)
-# Note: Enter the username and password as admin
+# Note: 
+Enter the username and password as admin
 
