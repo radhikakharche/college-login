@@ -9,10 +9,10 @@ Enter the username and password as admin
 All students record
 ![image](https://github.com/radhikakharche/college-login/assets/135815258/9f50357c-bd1d-49d3-b347-0d6f36218945)
 
-In clear dues section
+In clear dues section, click on update after updating the details
 ![image](https://github.com/radhikakharche/college-login/assets/135815258/a0527be5-76ea-4ef1-85be-d3a1b6cb821c)
 
-After updating the fees details
+To print the record
 ![image](https://github.com/radhikakharche/college-login/assets/135815258/8bb96f18-c1ae-4107-8b1c-981ed28b1f93)
 
 
